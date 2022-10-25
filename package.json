@@ -1,6 +1,6 @@
 {
     "name": "hexo-meilisearch",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Index content of your hexo website in Meilisearch and add search within minutes.",
     "main": "index",
     "directories": {
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/imvkmark/hexo-algolia.git"
+        "url": "https://github.com/imvkmark/hexo-meilisearch.git"
     },
     "engines": {
         "node": ">= 4.0.0"
@@ -29,9 +29,9 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/imvkmark/hexo-algolia/issues"
+        "url": "https://github.com/imvkmark/hexo-meilisearch/issues"
     },
-    "homepage": "https://github.com/imvkmark/hexo-algolia",
+    "homepage": "https://github.com/imvkmark/hexo-meilisearch",
     "dependencies": {
         "meilisearch": "^0.28.0",
         "p-each-series": "^1.0.0"
