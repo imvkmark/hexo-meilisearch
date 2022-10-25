@@ -30,7 +30,7 @@ You can configure Meilisearch integration to your hexo website with the `_config
 
 ``` yaml
 meilisearch:
-  host: 'applicationID'
+  host: 'hostUrl'
   searchKey: 'YourSearchKey'
   indexName: '...'
 ```
