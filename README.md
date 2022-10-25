@@ -1,6 +1,7 @@
 # hexo-meilisearch [![Build Status][]][pkg-build] ![][pkg-downloads] ![][pkg-version]
 
 > Index content of your [hexo][] website in [Meilisearch][] and add search within minutes.
+> This package inspiring from [hexo-algolia](https://www.npmjs.com/package/hexo-algolia)
 
 `hexo-meilisearch` is an [hexo][] plugin provided by the community.
 This is what you get when you install it:
