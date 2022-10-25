@@ -1,0 +1,42 @@
+{
+    "name": "hexo-meilisearch",
+    "version": "0.0.1",
+    "description": "Index content of your hexo website in Meilisearch and add search within minutes.",
+    "main": "index",
+    "directories": {
+        "lib": "./lib"
+    },
+    "scripts": {
+        "test": "exit 0",
+        "posttest": "eslint *.js ./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imvkmark/hexo-algolia.git"
+    },
+    "engines": {
+        "node": ">= 4.0.0"
+    },
+    "keywords": [
+        "hexo",
+        "meilisearch",
+        "search"
+    ],
+    "author": {
+        "name": "duoli",
+        "email": "zhaody901@126.com",
+        "url": "https://wulicode.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/imvkmark/hexo-algolia/issues"
+    },
+    "homepage": "https://github.com/imvkmark/hexo-algolia",
+    "dependencies": {
+        "meilisearch": "^0.28.0",
+        "p-each-series": "^1.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^4.19.1"
+    }
+}
